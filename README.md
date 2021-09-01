@@ -31,16 +31,16 @@ password: admin
 1- Use https://github.com/acecilia/OpenWRTInvasion to gain telnet access.
 
 2- Make Backup fullflash 
-Use file: (https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/mi4c_factory_backup_and_flash.zip)[https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/mi4c_factory_backup_and_flash.zip]
+Use file: https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/mi4c_factory_backup_and_flash.zip
 
 Run file "Backup.bat"
 Data will save to "Data" Folder: backup.bin and eeprom.bin (save them)
 
-3- Use any ftp client to upload breed.bin to /tmp
+3- Use any ftp client to upload breed-mt7688-reset38.bin to /tmp
 
 https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/breed-mt7688-reset38.bin
 
-4- Run ``` mtd -r write /tmp/breed.bin Bootloader ``` on shell to install bootloader.
+4- Run ``` mtd -r write /tmp/breed-mt7688-reset38.bin Bootloader ``` on shell to install bootloader.
 
 5- Login breed web 192.168.1.1 with reset clamped when the router is turned on. 
 
