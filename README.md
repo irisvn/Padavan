@@ -10,6 +10,7 @@
 
 ### Big Thanks ###
 * https://github.com/yuos-bit/Padavan
+* Group Support: https://t.me/MiRouter4c
 
 ***
 
@@ -35,7 +36,7 @@ password: admin
 
 2- Make Backup
 
-* Use file: https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/mi4c_factory_backup_and_flash.zip
+* Use file: https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/mi4c_factory_backup_and_flash.zip (https://t.me/MiRouter4c)
 * Run file "Backup.bat"
 * Data will save to "Data" Folder: backup.bin and eeprom.bin (save them)
 
