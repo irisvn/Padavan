@@ -45,7 +45,8 @@ https://github.com/irisvn/Padavan/releases/download/v3.4.3.9/breed-mt7688-reset3
 5- Login breed web 192.168.1.1 with reset clamped when the router is turned on. 
 
 6- Upload from breed web padavan:
-++ eeprom.bin (from step 2)
-++ MI-4C_3.4.3.9-099-English.trx 
+
+* eeprom.bin (from step 2)
+* MI-4C_3.4.3.9-099-English.trx 
 
 7- Go to 10.32.0.1  on your browser
