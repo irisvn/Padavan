@@ -20,3 +20,9 @@ user: admin
 password: admin
 ```
 
+***
+
+### Build Firmware ###
+
+* https://github.com/irisvn/xiaomi-padavan-docker
+
